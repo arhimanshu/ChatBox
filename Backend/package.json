@@ -1,0 +1,19 @@
+{
+  "name": "assignmentchatbox",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
